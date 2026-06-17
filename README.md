@@ -2,7 +2,7 @@
 
 > A fan-made concept and customization project inspired by what a future version of Windows could look like.
 
-![Banner Image](assets/banner.png)
+![Banner Image](banner.png)
 
 ## 🚀 About
 
@@ -111,7 +111,6 @@ Please open an Issue and include:
 ### Creator
 
 👤 **lttthedev**
-Replace the placeholder above with your name.
 
 ### Special Thanks
 
